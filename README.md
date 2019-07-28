@@ -1,0 +1,2 @@
+# stringutil
+go string utilities
